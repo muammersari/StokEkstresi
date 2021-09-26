@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/7OGI9bY0mWEJFVJ8O9ZrS0Miengduhm9cj7kK7f+jwD/t7s9mRPIsaxzBGs/643ehNNgjIYRxpkwxBPo6no5w==",
+  "dgSpecHash": "S+4jF+A1Gtt46iGXnjXfEP8fZxiR5kdQxPFkvgRaHpHL0Gfc7Rr1kORIAur6za1L7aScypkFov4e8aP+qx9KfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Muammer\\source\\repos\\StokEkstresi\\StokEkstresi\\StokEkstresi.csproj",
+  "projectFilePath": "C:\\Users\\Muammer\\Source\\Repos\\deneme\\StokEkstresi\\StokEkstresi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Muammer\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Muammer\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
