@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Muammer\\source\\repos\\StokEkstresi\\StokEkstresi\\StokEkstresi.csproj": {}
+    "C:\\Users\\Muammer\\Source\\Repos\\deneme\\StokEkstresi\\StokEkstresi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Muammer\\source\\repos\\StokEkstresi\\StokEkstresi\\StokEkstresi.csproj": {
+    "C:\\Users\\Muammer\\Source\\Repos\\deneme\\StokEkstresi\\StokEkstresi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Muammer\\source\\repos\\StokEkstresi\\StokEkstresi\\StokEkstresi.csproj",
+        "projectUniqueName": "C:\\Users\\Muammer\\Source\\Repos\\deneme\\StokEkstresi\\StokEkstresi.csproj",
         "projectName": "StokEkstresi",
-        "projectPath": "C:\\Users\\Muammer\\source\\repos\\StokEkstresi\\StokEkstresi\\StokEkstresi.csproj",
+        "projectPath": "C:\\Users\\Muammer\\Source\\Repos\\deneme\\StokEkstresi\\StokEkstresi.csproj",
         "packagesPath": "C:\\Users\\Muammer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Muammer\\source\\repos\\StokEkstresi\\StokEkstresi\\obj\\",
+        "outputPath": "C:\\Users\\Muammer\\Source\\Repos\\deneme\\StokEkstresi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

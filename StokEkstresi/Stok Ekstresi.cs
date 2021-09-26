@@ -29,7 +29,7 @@ namespace StokEkstresi
 
         private void btnSearch_Click(object sender, EventArgs e)
         {
-            connection.Open();
+            connection.Open(); //bağlantı açıldı
             SqlCommand komut = new SqlCommand();
             komut.Connection = connection;
             komut.CommandType = CommandType.StoredProcedure;
